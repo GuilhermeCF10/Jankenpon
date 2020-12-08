@@ -4,14 +4,5 @@
 
 
 
-Feito por:
-
--Guilherme Fialho
-
--João Vinícius Vitral
-
--Thiago Paixão
-
-
 Se ajudar, deixa uma star
 
