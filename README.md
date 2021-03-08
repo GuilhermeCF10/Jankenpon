@@ -4,5 +4,4 @@
 
 
 
-Se ajudar, deixa uma star
-
+Siga as intruções do jogo!
